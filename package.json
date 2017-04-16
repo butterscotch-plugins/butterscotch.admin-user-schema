@@ -1,0 +1,27 @@
+{
+  "name": "butterscotch.admin-user-schema",
+  "version": "0.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/FridaySuite/butterscotch.admin-user-schema.git"
+  },
+  "keywords": [
+    "add",
+    "posts",
+    "butterscotch",
+    "friday",
+    "suite"
+  ],
+  "author": "ankitbug94",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FridaySuite/butterscotch.admin-user-schema/issues"
+  },
+  "homepage": "https://github.com/FridaySuite/butterscotch.admin-user-schema#readme",
+  "description": ""
+}
